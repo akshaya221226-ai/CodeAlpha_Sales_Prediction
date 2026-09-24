@@ -1,0 +1,27 @@
+CODEALPHA - SALES PREDICTION USING PYTHON
+============================================================
+
+Dataset Information
+------------------------------------------------------------
+Total samples: 200
+Features: TV, Radio, Newspaper
+Target: Sales
+
+Machine Learning Model
+------------------------------------------------------------
+Linear Regression
+
+Model Performance
+------------------------------------------------------------
+MAE: 1.4608
+MSE: 3.1741
+RMSE: 1.7816
+R2 Score: 0.8994
+R2 Accuracy: 89.94%
+
+Advertising Coefficients
+------------------------------------------------------------
+TV: 0.0447
+Radio: 0.1892
+Newspaper: 0.0028
+Intercept: 2.9791
